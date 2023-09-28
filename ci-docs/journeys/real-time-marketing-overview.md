@@ -15,7 +15,7 @@ search.audienceType:
 
 [!INCLUDE[consolidated-sku-rtm-only](./includes/consolidated-sku-rtm-only.md)]
 
-Dynamics 365 Customer Insights - Journeys isn't just for marketers anymore. With AI and natural language input assistance, business users can build trigger-based journeys that reach customers across multiple touch-points, growing relationships from prospects, through sales and support. Customer Insights - Journeys enables organizations to:
+Customer Insights - Journeys isn't just for marketers anymore. With AI and natural language input assistance, business users can build trigger-based journeys that reach customers across multiple touch-points, growing relationships from prospects, through sales and support. Customer Insights - Journeys enables organizations to:
 
 - **Engage customers in real time**
     - With [trigger-based customer journeys](real-time-marketing-trigger-based-journey.md) using [email](real-time-marketing-email.md), [text message](real-time-marketing-outbound-text-messaging.md), or [push notification](real-time-marketing-push-notifications.md) channels, organizations can trigger customer journeys in real time, pick the right channel for each individual, and react to customer-led actions in the moments that matter.
