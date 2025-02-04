@@ -14,7 +14,7 @@ Segments, emails, and journeys are the most used components in Customer Insights
 
 ## Segments
 
-You can use outbound marketing segments also in real-time journeys, however, it's recommended to rebuild the segments in real-time journeys for increased performance and smaller refresh cycles. There's no way to automatically create a real-time journeys segment from an outbound marketing segment, but it's possible to use [natural language and Copilot](real-time-marketing-natural-language-segments.md) to create a real-time journeys segment.
+You can use outbound marketing segments also in real-time journeys, however, it's recommended to rebuild the segments in real-time journeys for increased performance, smaller refresh cycles, and to avoid disruption when outbound is removed (outbound segments will not be usable then). There's no way to automatically create a real-time journeys segment from an outbound marketing segment, but it's possible to use [natural language and Copilot](real-time-marketing-natural-language-segments.md) to create a real-time journeys segment.
 
 ## Emails
 
